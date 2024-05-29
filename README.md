@@ -1,3 +1,7 @@
+## Sobre esta API
+
+Esta API, expone servicios usados por la aplicación Clínica San Pablo. Creado en Visual Studio ASP NET MVC
+
 ## Modelo de base de datos que usa el API
 
 <img width="847" alt="image" src="https://github.com/jnizama/ApiClinicaSanPablo/assets/3922089/21d49931-ee7d-4012-a286-2641e820ed01">
